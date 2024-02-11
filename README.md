@@ -1,11 +1,12 @@
 # Credit Card Validator
  ## Replit Link for the project
 
- - [Click here to run and view code on replit](https://replit.com/@uchesolomon61/CardValidatorTask6#index.js)
+ - [Click here to run and view the interactive version of the code on replit](https://replit.com/@uchesolomon61/CardValidatorTask6#index.js)
 
 
 
-- This JavaScript code provides a `validateCard` function to validate credit card numbers. It checks for valid length, numeric characters, and uses the Luhn algorithm to validate most card types.
+- This JavaScript code provides a `validateCard` function to validate credit card numbers. It checks for valid length, numeric characters, and uses the Luhn algorithm to validate most card types,e.g. visa,master card and verve card types
+
 
 ## validateCard Function
 The validateCard function takes a credit card number as input and performs the following steps:
@@ -20,4 +21,3 @@ The validateCard function takes a credit card number as input and performs the f
 ## validateLuhn Function
 The validateLuhn function implements the Luhn algorithm to check the validity of a credit card number.
 
-### i could have made the code interactive but i figured, in my example usage u can change to it any card number of your choice and it will validate for you
