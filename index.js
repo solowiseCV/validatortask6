@@ -77,4 +77,3 @@ function validateCard(cardNumber) {
   console.log(`Verve Type: ${verveValidationResult.type}`);
   console.log(`Verve Valid: ${verveValidationResult.valid ? 'Yes' : 'No'}${verveValidationResult.valid ? '' : ` (${verveValidationResult.reason})`}`);
   
-  
