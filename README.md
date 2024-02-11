@@ -1,6 +1,6 @@
 # Credit Card Validator
  ## Replit Link for the project
- ## [Click here to run and view the interactive version of the code on replit](https://replit.com/@uchesolomon61/CardValidatorTask6#index.js)
+  [Click here to run and view the interactive version of the code on replit](https://replit.com/@uchesolomon61/CardValidatorTask6#index.js)
 
 
 
